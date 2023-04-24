@@ -1,2 +1,7 @@
+#Todo Web App
+
 Run the below Command to execute the webapp
-streamlit run .\web.py
+
+```bash
+$ streamlit run .\web.py
+```
