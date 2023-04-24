@@ -1,0 +1,7 @@
+Create an AWS free tier account
+Click on Launch instance
+Choose a free tier OS Image
+Choose the default VPC and Subnet
+Create security group and keep port 22 open for ssh
+Create a Key Value pair and save the key in your system
+Launch an EC2 micro instance
